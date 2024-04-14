@@ -12,3 +12,6 @@ ASSUMPTIONS :
 4. The trainer and member require a room to carry out their private training sesisons.
 
 Whenever testing please use the sample data provided in the DML ile in order fo ryou to have an easier time testing so you do not violate any additional constraints I may have had to set.
+
+The link to the demonstartion can be found below, otherwise it will be submitted as well .
+
